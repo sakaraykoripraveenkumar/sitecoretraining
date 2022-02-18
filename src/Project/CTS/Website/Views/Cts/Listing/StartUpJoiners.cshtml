@@ -1,0 +1,13 @@
+﻿
+@model IEnumerable<CTS.Project.CTS.Models.LeadershipCard>
+
+@foreach (var card in Model)
+{
+    <div>
+        <h2><a href="@card.LeaderProfileUrl">@card.LeaderName</a></h2>
+    </div>
+
+    <div>
+        <b>@card.LeaderProfile</b>
+    </div>
+}
