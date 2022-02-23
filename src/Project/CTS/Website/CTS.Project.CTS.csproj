@@ -303,6 +303,7 @@
     <Compile Include="Controllers\FilePathController.cs" />
     <Compile Include="Controllers\LeadershipProfileController.cs" />
     <Compile Include="Controllers\StartUpJoinersController.cs" />
+    <Compile Include="Controllers\TestController.cs" />
     <Compile Include="Models\Article.cs" />
     <Compile Include="Models\Comment.cs" />
     <Compile Include="Models\CTSProfile.cs" />
@@ -329,6 +330,7 @@
     <Folder Include="Views\FeaturedArticle\" />
     <Folder Include="Views\FilePath\" />
     <Folder Include="Views\StartUpJoiners\" />
+    <Folder Include="Views\Test\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
