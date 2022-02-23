@@ -14,7 +14,7 @@ namespace CTS.Project.CTS.Models
 
         public HtmlString Author { set; get; }
 
-        public String ArticleUrl { set; get; }
+        public string ArticleUrl { set; get; }
         
     }
 }

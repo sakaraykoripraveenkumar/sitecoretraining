@@ -272,6 +272,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Config\Include\Cts\Cts.YourCompany.SiteDefinition.config" />
+    <Content Include="App_Config\Include\Cts\Cts.MyCompany.SiteDefinition.config" />
+    <Content Include="App_Config\Include\Cts\CTS.Project.CTS.Serialization.config" />
     <None Include="Dockerfile" />
     <None Include=".dockerignore">
       <DependentUpon>Dockerfile</DependentUpon>
@@ -285,16 +288,27 @@
     <Content Include="Views\Cts\LeadershipProfile\CTSProfile.cshtml" />
     <Content Include="Views\Cts\LeadershipProfile\Article.cshtml" />
     <Content Include="Views\Cts\Listing\StartUpJoiners.cshtml" />
+    <Content Include="Views\Cts\Common\Breadcrumb.cshtml" />
+    <Content Include="Views\Cts\LeadershipProfile\CommnetsForm.cshtml" />
+    <Content Include="Views\Cts\LeadershipProfile\ThankYou.cshtml" />
+    <Content Include="Views\Cts\LeadershipProfile\DisplayComments.cshtml" />
+    <Content Include="Views\Cts\Common\FeaturedArticle.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\CommentsFormController.cs" />
     <Compile Include="Controllers\CTSProfileController.cs" />
+    <Compile Include="Controllers\DisplayCommentsController.cs" />
+    <Compile Include="Controllers\FeaturedArticleController.cs" />
+    <Compile Include="Controllers\FilePathController.cs" />
     <Compile Include="Controllers\LeadershipProfileController.cs" />
     <Compile Include="Controllers\StartUpJoinersController.cs" />
     <Compile Include="Models\Article.cs" />
+    <Compile Include="Models\Comment.cs" />
     <Compile Include="Models\CTSProfile.cs" />
     <Compile Include="Models\LeadershipCard.cs" />
     <Compile Include="Models\LeadershipProfile.cs" />
+    <Compile Include="Models\NavigationItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -309,7 +323,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\CommentsForm\" />
     <Folder Include="Views\CTSProfile\" />
+    <Folder Include="Views\DisplayComments\" />
+    <Folder Include="Views\FeaturedArticle\" />
+    <Folder Include="Views\FilePath\" />
     <Folder Include="Views\StartUpJoiners\" />
   </ItemGroup>
   <PropertyGroup>

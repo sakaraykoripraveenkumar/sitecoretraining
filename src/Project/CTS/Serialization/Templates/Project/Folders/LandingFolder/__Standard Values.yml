@@ -1,0 +1,18 @@
+﻿---
+ID: "1e05cca7-7603-445a-b3fe-a56744e8f300"
+Parent: "17320095-763c-458a-b2a9-06f9fbc86ff8"
+Template: "17320095-763c-458a-b2a9-06f9fbc86ff8"
+Path: /sitecore/templates/Project/Folders/LandingFolder/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T054700Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,30 @@
+﻿---
+ID: "6a9a35cf-e38d-4864-98e1-1567908eedbe"
+Parent: "bfee809e-f02d-45ff-bfeb-e1526d5cc767"
+Template: "c9d3a41c-0c2c-42ba-b82e-0cca759d85fa"
+Path: /sitecore/content/Company/mycompany/Home/StartUpJoiners/SKPK/CTSprofile
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00dd5dcb-0a13-45a2-b740-cfc10b8724c1"
+      Hint: FirstName
+      Value: SKPK
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T031312Z
+    - ID: "420831f4-5e5a-450d-92d9-48265e7307b9"
+      Hint: EmailId
+      Value: SKPK@cts.com
+    - ID: "453cb591-4e2d-48c9-a493-2c4ac5e176ad"
+      Hint: DateOfJoining
+      Value: 20220214T183000Z
+    - ID: "683c18b7-4d0e-47ba-be7a-98c0f84a9a95"
+      Hint: ProfileDetail
+      Value: |
+        <link id="{BFEE809E-F02D-45FF-BFEB-E1526D5CC767}" querystring="" text="" anchor="" url="/Company/mycompany/Home/StartUpJoiners/SKPK" title="" class="" linktype="internal" />
+    - ID: "e82f5632-28b1-404e-99cc-0ce5e1fee560"
+      Hint: LastName
+      Value: SKPK

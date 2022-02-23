@@ -1,0 +1,35 @@
+﻿---
+ID: "ab8694d5-a90d-4d33-8f81-629d848d3e17"
+Parent: "6e28b313-9124-436f-8c64-f3b52a58de55"
+Template: "20043d9c-7540-492d-9abb-ecbb15595219"
+Path: /sitecore/content/Company/mycompany/Home/StartUpJoiners/Kori
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00a81fea-a2d9-4d71-a894-cc2cdc4eb736"
+      Hint: Articles
+      Type: Treelist
+      Value: "{F5049C98-4758-43B0-B8C7-E13872AE3DD8}"
+    - ID: "1d307f12-a362-49a1-8666-bacfdb17d5ae"
+      Hint: Des
+      Value: BSC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T031153Z
+    - ID: "361bd90b-2158-441d-9824-8c272e7ad2f2"
+      Hint: Image
+      Value: |
+        <image mediaid="{0DEE71F6-0A02-4D47-93F9-2240388F2372}" />
+    - ID: "52a65b8b-8aef-4f4f-807e-92161ed0777e"
+      Hint: LeaderName
+      Value: Kori
+    - ID: "af649e2f-11f0-4286-8b02-f342f55d690c"
+      Hint: ProfileDetail
+      Value: |
+        <link id="{DBFFBA32-D9BA-4204-937C-BAC73F5FFBF8}" querystring="" text="" anchor="" url="/Company/mycompany/Home/StartUpJoiners/Kori/CTSprofile" title="" class="" linktype="internal" />
+    - ID: "d260bb74-4f97-4b8f-b8d5-6a03678510b0"
+      Hint: ProfileBrief
+      Value: BSC Computers

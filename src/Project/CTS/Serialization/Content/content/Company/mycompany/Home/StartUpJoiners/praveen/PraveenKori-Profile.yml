@@ -1,0 +1,34 @@
+﻿---
+ID: "3b31133c-c980-4f3b-8a1a-8625522b766a"
+Parent: "df96ec14-d04a-44fa-b2a2-ec0681486762"
+Template: "c9d3a41c-0c2c-42ba-b82e-0cca759d85fa"
+Path: "/sitecore/content/Company/mycompany/Home/StartUpJoiners/praveen/PraveenKori-Profile"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00dd5dcb-0a13-45a2-b740-cfc10b8724c1"
+      Hint: FirstName
+      Value: Sakaray Kori
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220216T031648Z
+    - ID: "420831f4-5e5a-450d-92d9-48265e7307b9"
+      Hint: EmailId
+      Value: cts@cts.com
+    - ID: "453cb591-4e2d-48c9-a493-2c4ac5e176ad"
+      Hint: DateOfJoining
+      Value: 20220216T183000Z
+    - ID: "683c18b7-4d0e-47ba-be7a-98c0f84a9a95"
+      Hint: ProfileDetail
+      Value: |
+        <link id="{DF96EC14-D04A-44FA-B2A2-EC0681486762}" querystring="" text="" anchor="" url="/Company/mycompany/Home/StartUpJoiners/praveen" title="" class="" linktype="internal" />
+    - ID: "e82f5632-28b1-404e-99cc-0ce5e1fee560"
+      Hint: LastName
+      Value: Praveen Kumar

@@ -1,0 +1,24 @@
+﻿---
+ID: "ca42a65a-419a-4b9b-9049-90779bb2ff69"
+Parent: "0fdff1c7-e03f-45a7-bd51-7ebf4ab93226"
+Template: "7f52082a-7df5-45c9-a78d-271f2d82dc41"
+Path: /sitecore/content/Company/mycompany/Home/SiteSettings/StartUpJoinerConfig
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T031700Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6f7911ca-6d4c-48c3-8b9c-79012bc9bbd1"
+      Hint: StartDate
+      Value: 20220213T183000Z
+    - ID: "f01b4be0-180d-4368-b3f0-1110f076ea2b"
+      Hint: EndDate
+      Value: 20220130T183000Z

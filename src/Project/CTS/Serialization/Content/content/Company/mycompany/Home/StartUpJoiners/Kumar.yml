@@ -1,0 +1,35 @@
+﻿---
+ID: "087e401d-40b4-4ef5-8ed5-5d6474b48c91"
+Parent: "6e28b313-9124-436f-8c64-f3b52a58de55"
+Template: "20043d9c-7540-492d-9abb-ecbb15595219"
+Path: /sitecore/content/Company/mycompany/Home/StartUpJoiners/Kumar
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00a81fea-a2d9-4d71-a894-cc2cdc4eb736"
+      Hint: Articles
+      Type: Treelist
+      Value: "{F5049C98-4758-43B0-B8C7-E13872AE3DD8}"
+    - ID: "1d307f12-a362-49a1-8666-bacfdb17d5ae"
+      Hint: Des
+      Value: BCOM
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T031251Z
+    - ID: "361bd90b-2158-441d-9824-8c272e7ad2f2"
+      Hint: Image
+      Value: |
+        <image mediaid="{958D8687-093E-48CC-9CBA-BCE1A1BEA5D5}" />
+    - ID: "52a65b8b-8aef-4f4f-807e-92161ed0777e"
+      Hint: LeaderName
+      Value: Kumar
+    - ID: "af649e2f-11f0-4286-8b02-f342f55d690c"
+      Hint: ProfileDetail
+      Value: |
+        <link id="{FD782F80-7178-486F-92A1-981BF6CA64EC}" querystring="" text="" anchor="" url="/Company/mycompany/Home/StartUpJoiners/Kumar/CTSprofile" title="" class="" linktype="internal" />
+    - ID: "d260bb74-4f97-4b8f-b8d5-6a03678510b0"
+      Hint: ProfileBrief
+      Value: BCOM Accounts

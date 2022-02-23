@@ -1,0 +1,30 @@
+﻿---
+ID: "2ed4a503-d780-45e9-8925-529332bd206d"
+Parent: "1fd16dc4-4de2-4311-8614-153e789d9588"
+Template: "83c52b11-8001-4ed7-84eb-159c0bd4d8fa"
+Path: /sitecore/content/ArticleLending/art
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T032330Z
+    - ID: "29ff48e2-4d82-478f-8a94-91a54f3b0d61"
+      Hint: Author
+      Value: SiteCore
+    - ID: "36ca64ca-d2d9-4ab1-bcc3-f2220e62c755"
+      Hint: PublishedDate
+      Value: 20220213T183000Z
+    - ID: "a417cd32-7365-42aa-97ac-540cdd47dc70"
+      Hint: Title
+      Value: SiteCore
+    - ID: "b818921b-bd85-4c2f-8bb5-d81789bd3fde"
+      Hint: Brief
+      Value: SiteCore

@@ -1,0 +1,22 @@
+﻿---
+ID: "6e28b313-9124-436f-8c64-f3b52a58de55"
+Parent: "d1c383c4-9f93-4652-8f75-264377324c6b"
+Template: "08feb7ad-1f26-4fa7-a25c-a37ba24e73e1"
+Path: /sitecore/content/Company/mycompany/Home/StartUpJoiners
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T025049Z
+    - ID: "7afe36a3-d477-41d6-b06b-500aff31f27b"
+      Hint: IsNavigable
+      Type: Checkbox
+      Value: 1

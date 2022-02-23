@@ -1,0 +1,39 @@
+﻿---
+ID: "38ae2d7f-b54a-4560-bf99-d81ff490ea1b"
+Parent: "1995806f-0a84-42b5-93b0-88f0e2ff872c"
+Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
+Path: /sitecore/layout/Renderings/Project/MyProfile
+DB: master
+SharedFields:
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: GetLeadershipProfileInfo
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: CTS.Project.CTS.Controllers.LeadershipProfileController,CTS.Project.CTS
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{49EF1A32-781E-4518-93A0-8F70B7993FE3}">
+        <r
+          id="{38AE2D7F-B54A-4560-BF99-D81FF490EA1B}"
+          ph="cts-main"
+          uid="{8CD8D04C-1FA1-4413-A0A4-649873ABC3F7}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220215T042932Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

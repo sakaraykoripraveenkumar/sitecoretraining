@@ -1,0 +1,24 @@
+﻿---
+ID: "6f093161-e715-45ad-9b9c-1103f6b09176"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "bf89302b-29ee-4714-af89-5877fcd6c651"
+Path: /sitecore/content/praveenprofile
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T082844Z
+    - ID: "4ac62f5e-ac17-4091-910a-ca37962bf85c"
+      Hint: DOB
+      Value: 20220214T000000Z
+    - ID: "525d4f5b-3e9d-4b67-baf9-cde0bfe54b9c"
+      Hint: Name
+      Value: praveenprofile

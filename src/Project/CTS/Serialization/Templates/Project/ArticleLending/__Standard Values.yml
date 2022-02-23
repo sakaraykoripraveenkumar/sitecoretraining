@@ -1,0 +1,37 @@
+﻿---
+ID: "90249cb0-0100-4bab-acfa-ff4836dea7ec"
+Parent: "c7944db0-82f8-436f-a1e5-e24161689f85"
+Template: "c7944db0-82f8-436f-a1e5-e24161689f85"
+Path: /sitecore/templates/Project/ArticleLending/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{83C52B11-8001-4ED7-84EB-159C0BD4D8FA}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{49EF1A32-781E-4518-93A0-8F70B7993FE3}">
+        <r
+          id="{EE2F2C75-FC89-4BB3-ADF1-B6CF40496279}"
+          ph="cts-main"
+          uid="{C42E35B3-07E3-4C8F-B035-50066AF41F8E}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T032956Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

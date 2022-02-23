@@ -1,0 +1,18 @@
+﻿---
+ID: "cebee7b4-eb24-4269-b58c-672075895550"
+Parent: "da41f4a9-39aa-42e9-863e-aaf295a6f6be"
+Template: "da41f4a9-39aa-42e9-863e-aaf295a6f6be"
+Path: /sitecore/templates/Project/Folders/ListingFolder/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T054705Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

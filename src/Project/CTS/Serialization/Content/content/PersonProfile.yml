@@ -1,0 +1,30 @@
+﻿---
+ID: "46ca6f85-9e53-43b0-8aec-8a6bf0c25a81"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "f306c288-9125-4195-a8c9-c48da2eb288a"
+Path: /sitecore/content/PersonProfile
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "179d99fe-0e33-4b47-b078-ac5b7c042d48"
+      Hint: EmailId
+      Value: cts@cognizant.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T043957Z
+    - ID: "2e0ae60c-eec2-4a10-80ed-85207e45dc1e"
+      Hint: DOB
+      Value: 20220214T000000Z
+    - ID: "7cfab85e-7de9-468d-a7c5-4a742c8a0f18"
+      Hint: PhoneNumber
+      Value: 1234567890
+    - ID: "83cb9ab7-fe1e-463b-b696-f2e74a518061"
+      Hint: Name
+      Value: Sakaray Kori Praveen Kori

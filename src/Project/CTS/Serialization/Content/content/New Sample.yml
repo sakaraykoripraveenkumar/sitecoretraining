@@ -1,0 +1,31 @@
+﻿---
+ID: "6eef1fe6-3b2c-4722-900c-9a565df7c8e5"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "fd04fee2-f507-4021-879a-042a07b7a1c5"
+Path: /sitecore/content/New Sample
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "21a9119b-435f-4070-a99f-56fa02e06af0"
+      Hint: Editor
+      Value: Site Core
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T033747Z
+    - ID: "449e311d-c683-4ca8-bff8-f9148e84b6db"
+      Hint: Title
+      Value: Hello World
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "82e61e63-9c32-4a7b-af29-b1322eb4f4d6"
+      Hint: Author
+      Value: Site core

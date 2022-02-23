@@ -1,0 +1,31 @@
+﻿---
+ID: "3e0636b5-a4d9-44bc-bb73-3478e8a456b1"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "57a189c9-0133-4908-b1e7-f8163fe62918"
+Path: /sitecore/content/MyProfile
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "21449d61-3c3c-4b35-85f5-5ccfb843cee0"
+      Hint: Des
+      Value: Working in CTS from Aug 9th 2021
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220215T043034Z
+    - ID: "85ef2112-2c33-4715-b9b5-20d64caa2d3c"
+      Hint: Image
+      Value: |
+        <image mediaid="{01B909A1-5533-4679-8880-34416B749AB0}" />
+    - ID: "a13e016e-e0cd-4ba9-b1a4-3856fed53783"
+      Hint: ProfileBrief
+      Value: .Net Developer and learning Site Core
+    - ID: "c92e4ef4-1840-4599-82ad-6bc93da76529"
+      Hint: LeaderName
+      Value: Sakaray Kori Praveen Kori

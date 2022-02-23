@@ -1,0 +1,27 @@
+﻿---
+ID: "cd895d94-29a1-4605-b261-ae0a7f120235"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "7f0d5b3e-1f36-4cd6-b393-8dee1e310df5"
+Path: /sitecore/content/sakaraykoriinfo
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T070457Z
+    - ID: "940bd2b2-3ccd-4be4-96c8-6aae33c2fa79"
+      Hint: LastName
+      Value: Praveen Kumar
+    - ID: "af9084e7-08ad-419c-b485-a70984965274"
+      Hint: DOB
+      Value: 20220214T000000Z
+    - ID: "faf15d43-080f-438e-ab1f-0f13060d0911"
+      Hint: FirstName
+      Value: Sakaray Kori

@@ -1,0 +1,18 @@
+﻿---
+ID: "b3375f1f-8afa-48fc-b3b9-92270107318d"
+Parent: "20043d9c-7540-492d-9abb-ecbb15595219"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Pages/LeadershipProfile/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T052715Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

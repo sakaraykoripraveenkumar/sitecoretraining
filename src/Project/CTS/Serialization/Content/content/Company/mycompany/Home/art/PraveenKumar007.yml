@@ -1,0 +1,27 @@
+﻿---
+ID: "05f37271-e2a2-4db1-ae26-bbf2fbe904bf"
+Parent: "f5049c98-4758-43b0-b8c7-e13872ae3dd8"
+Template: "319539f3-d5bc-43d8-8ae1-64d25ffe0874"
+Path: /sitecore/content/Company/mycompany/Home/art/PraveenKumar007
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220223T020749Z
+    - ID: "2e1cf17c-83b0-4e0b-80c8-98d51dd6dcd2"
+      Hint: EmailId
+      Value: praveen@007123
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous
+    - ID: "8090d35e-e0de-4bbd-9296-93fd56d71338"
+      Hint: Comments
+      Value: praveen007
+    - ID: "aa943761-b0e8-4225-bbbf-94c2c92c0017"
+      Hint: Name
+      Value: PraveenKumar007
