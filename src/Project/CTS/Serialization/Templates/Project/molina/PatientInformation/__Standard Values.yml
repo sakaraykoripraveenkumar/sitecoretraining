@@ -1,0 +1,48 @@
+﻿---
+ID: "447f35c4-cd30-447a-8d27-fedd36e8b744"
+Parent: "20d7bf2d-2ba1-4e3a-ac74-179532f9dd6a"
+Template: "20d7bf2d-2ba1-4e3a-ac74-179532f9dd6a"
+Path: /sitecore/templates/Project/molina/PatientInformation/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{BDBA83F0-14B4-5150-9922-3A015EE0BEC3}">
+        <r
+          id="{4E667DCA-D992-470F-89CC-A7054324516B}"
+          ph="jss-main"
+          uid="{877901F6-8347-446A-8FE4-BEA0E8172FAF}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "064fab7b-8479-438e-94e2-9655e19b3d4b"
+      Hint: FirstName
+      Value: Praveen
+    - ID: "1d91c878-1a77-45fc-88ec-fe15d7624b78"
+      Hint: gender
+      Value: male
+    - ID: "1fb18011-5a83-4c8d-a1be-dc89074d43a6"
+      Hint: DOB
+      Value: "23-08-1988"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T031414Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "973e52ab-9523-4495-af38-9fbb6fbb8ab8"
+      Hint: LastName
+      Value: Kumar
+    - ID: "dbf0b9b0-2bb7-4063-8dab-2f491a00b966"
+      Hint: phonenumber
+      Value: 123456789
